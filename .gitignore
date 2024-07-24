@@ -1,3 +1,6 @@
 Prerequisites
 SRGAN-PyTorch
 Main/Datasets
+Main/mnist/MNIST
+Main/mnist/loss
+Main/mnist/weights
