@@ -4,3 +4,5 @@ Main/Datasets
 Main/mnist/MNIST
 Main/mnist/loss
 Main/mnist/weights
+Main/512 checkpoints
+Main/features_and_labels.npz
